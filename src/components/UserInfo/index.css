@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.User-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-photo {
+  width: 40%;
+}
+.user-name {
+  color: #12022f;
+}
+.user-profile {
+  color: #616e7c;
+  margin-top: 0px;
+}

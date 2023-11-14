@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.blog-item-container {
+  list-style-type: none;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-heading {
+  font-size: 20px;
+}
+.published-date {
+  color: #616e7c;
+  font-weight: 500;
+}
+.description {
+  color: #9aa5b1;
+  font-weight: 500;
+}
+.horizontal {
+  margin-top: 25px;
+}
